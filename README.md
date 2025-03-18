@@ -1,9 +1,14 @@
 # Subscription Management API
 
+This is an example REST API mostly used for mentoring juniors or those getting started with REST APIs in general. 
+
+The primary objectives are to showcase basic Auth and a subscription model one could expand upon for further projects. 
+
 ## Tech Stack
-- Node.js
-- Express.js
+- Node.js/Express.js
 - MongoDB
+- Mongoose
+- Arcjet
 
 
 🔋 Features
